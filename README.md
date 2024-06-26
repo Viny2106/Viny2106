@@ -2,7 +2,7 @@
 
 
 
-Sou iniciante na área de desenvolvimento de software, atualmente fazendo cursos para aprimorar minhas habilidades. Tenho entusiasmo em aprender novas tecnologias e construir projetos que possam fazer a diferença.
+Sou iniciante na área de desenvolvimento de software, atualmente dedicando-me a cursos para aprimorar minhas habilidades. Tenho grande entusiasmo por aprender novas tecnologias e criar projetos que possam fazer a diferença.
 
 I'm a beginner in the field of software development, currently taking courses to improve my skills. I'm enthusiastic about learning new technologies and building projects that can make a difference.
 
