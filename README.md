@@ -18,7 +18,8 @@ I'm a beginner in the field of software development, currently taking courses to
 
 ## Projetos
 
-- Projeto 1 https://github.com/Viny2106/Costa_Bank.git 
-- Projeto 2 https://github.com/Viny2106/Super_Heroi.git
+- Projeto 1.0 https://github.com/Viny2106/Costa_Bank.git
+- Projeto 2.0 https://github.com/Viny2106/vini_bank.git
+- Projeto 3 https://github.com/Viny2106/Super_Heroi.git
 
 Obrigado por visitar o meu perfil!
