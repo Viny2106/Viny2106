@@ -1,5 +1,7 @@
 # Olá, meu nome é Vinicius!
 
+![giphy](https://github.com/user-attachments/assets/a39f3283-b015-4795-9387-2a43dc55d607)
+
 
 Sou um desenvolvedor de software em transição de carreira, com uma paixão crescente por tecnologia e inovacão. Após 16 anos de experiência na área de projetos e mecânica, decidi seguir o meu verdadeiro interesse: o desenvolvimento de software. 
 
