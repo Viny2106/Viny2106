@@ -33,25 +33,25 @@ I am a dedicated professional transitioning to the software development area. De
 
 ## GitHub Statistics 📈📊
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viny2106&show_icons=true&theme=neon)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viny2106&show_icons=true&theme=react)
 
-![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny2106&show_icons=true&theme=neon)
+![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny2106&show_icons=true&theme=react)
 
 ## Minhas contribuições / My contributions 🎯
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=secret_word_game&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Viny2106/secret_word_game.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=secret_word_game&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/secret_word_game.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Viny2106/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/dio-lab-open-source)
 
 
 ## Meus projetos / My projects 🗂️👩🏻‍💻
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Costa_Bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)]( https://github.com/Viny2106/Costa_Bank.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Costa_Bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)]( https://github.com/Viny2106/Costa_Bank.git))
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=vini_bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Viny2106/vini_bank.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=vini_bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/vini_bank.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Super_Heroi&bg_color=000&border_color=30A3DC&show_icons=true&theme=neon)](https://github.com/Viny2106/Super_Heroi.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Super_Heroi&bg_color=000&border_color=30A3DC&show_icons=true&theme=nreact)](https://github.com/Viny2106/Super_Heroi.git)
 
 
 
