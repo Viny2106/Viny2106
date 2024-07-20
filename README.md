@@ -51,7 +51,7 @@ I am a dedicated professional transitioning to the software development area. De
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=vini_bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/vini_bank.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Super_Heroi&bg_color=000&border_color=30A3DC&show_icons=true&theme=nreact)](https://github.com/Viny2106/Super_Heroi.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Super_Heroi&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/Super_Heroi.git)
 
 
 
