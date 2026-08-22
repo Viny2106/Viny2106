@@ -3,11 +3,13 @@
    ![giphy](https://github.com/user-attachments/assets/a39f3283-b015-4795-9387-2a43dc55d607)
 
 
-Técnico em mecânica/projetos com 16 anos de experiência, hoje migrando para desenvolvimento de software.
+Técnico em mecânica/projetos com 16 anos de experiência, hoje migrando
+para desenvolvimento de software.
 
-Atualmente estudando Python, SQL, Redes, Engenharia de Software
-na FGV. Trago da engenharia mecânica uma abordagem sistemática pra
-resolver problemas complexos o que aplico hoje nos meu estudos e alguns projetos e trabalhos da universidade debugging, arquitetura, etc.
+Atualmente estudando Python, SQL, Redes e Engenharia de Software na FGV.
+Trago da mecânica uma abordagem sistemática para resolver problemas
+complexos, que aplico hoje nos meus estudos e projetos da universidade —
+debugging, arquitetura e estruturação de soluções.
 
 📌 Projeto atual:
 
