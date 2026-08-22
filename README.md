@@ -3,16 +3,16 @@
    ![giphy](https://github.com/user-attachments/assets/a39f3283-b015-4795-9387-2a43dc55d607)
 
 
-Sou um desenvolvedor de software em transição de carreira, com uma paixão crescente por tecnologia e inovacão. Após 16 anos de experiência na área de projetos e mecânica, decidi seguir o meu verdadeiro interesse: o desenvolvimento de software. 
+Técnico em mecânica/projetos com 16 anos de experiência, hoje migrando para desenvolvimento de software.
 
-I'm a software developer in career transition, with a growing passion for technology and innovation. After 16 years of experience in the field of projects and mechanics, I decided to follow my true interest: software development.
+Atualmente estudando Python, SQL, Redes, Engenharia de Software
+na FGV. Trago da engenharia mecânica uma abordagem sistemática pra
+resolver problemas complexos o que aplico hoje nos meu estudos e alguns projetos e trabalhos da universidade debugging, arquitetura, etc.
 
-## Sobre mim
+📌 Projeto atual:
 
-Sou um profissional dedicado e em transição para a área de desenvolvimento de software. Desenvolvendo habilidades valiosas em resolução de problemas, trabalho em equipe e gestão de projetos. Atualmente, estou focado em aprimorar minhas habilidades técnicas e contribuir para a criação de soluções inovadoras no campo da tecnologia. 
 
-I am a dedicated professional transitioning to the software development area. Developing valuable skills in problem solving, teamwork and project management. Currently, I am focused on improving my technical skills and contributing to the creation of innovative solutions in the field of technology.
-
+🔧 Stack: 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                               ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)                                         ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 - 📚 Atualmente estou estudando Python | JavaScript | C | SQL. 
