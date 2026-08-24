@@ -10,7 +10,7 @@ approach to solving complex problems from my mechanical background,
 which I apply today to my studies and university projects —
 debugging, architecture, and solution design.
 
-📌 Projeto atual:
+📌 Current Project:
 
 
 🔧 Stack: 
@@ -21,7 +21,6 @@ debugging, architecture, and solution design.
 🤝 Looking for opportunities to collaborate on projects, especially
    those suited for beginners.
 
-💬 Feel free to ask me about Technology and Science in general.
 
 📫 Contact: https://www.linkedin.com/in/vinicius-costa-chaves/
 
