@@ -34,9 +34,7 @@ debugging, architecture, and solution design.
 
 ## GitHub Statistics 📈📊
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viny2106&show_icons=true&theme=react)
 
-![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Viny2106&show_icons=true&theme=react)
 
 ## Minhas contribuições / My contributions 🎯
 
