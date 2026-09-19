@@ -36,12 +36,7 @@ debugging, architecture, and solution design.
 
 
 
-## Minhas contribuições / My contributions 🎯
 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=secret_word_game&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/secret_word_game.git)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&theme=react)](https://github.com/Viny2106/dio-lab-open-source)
 
 
 ## Meus projetos / My projects 🗂️👩🏻‍💻
