@@ -19,12 +19,12 @@ After **16 years as a mechanical technician** (technical and vocational training
 I'm moving into software development. I'm currently studying **Systems Analysis and Development (ADS) at FGV**,
 covering Python, SQL, networking, operating systems and software engineering.
 
-What I bring from the mechanical field: a **hands-on, systematic way of diagnosing and solving problems** 
+What I bring from the mechanical field: a **hands-on, systematic way of diagnosing and solving problems** —
 the same mindset I now use for debugging, designing solutions and planning projects.
 
 - 🎓 **Studying:** Python · JavaScript · C · SQL
 - 🔧 **Currently building:** network addressing plan (IPv4, VLANs, DHCP/DNS/FTP/SNMP) in Cisco Packet Tracer for my FGV Networking final project
-- 🤝 **Open to:** collaborating on beginner-friendly projects feel free to reach out!
+- 🤝 **Open to:** collaborating on beginner-friendly projects — feel free to reach out!
 - ⚡ **Fun fact:** I studied Physics at UERJ up to the 6th semester before life took me to the UK. Today I'm back in higher education, now in software.
 
 ---
@@ -90,28 +90,13 @@ the same mindset I now use for debugging, designing solutions and planning proje
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Viny2106&background=000&border=30A3DC&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC" alt="GitHub streak">
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viny2106&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies">
-</p>
-
-### 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viny2106&bg_color=000000&color=30A3DC&line=30A3DC&point=ffffff&area=true&area_color=30A3DC&hide_border=true" alt="Contribution activity graph">
+  <img src="https://streak-stats.demolab.com/?user=Viny2106&theme=dark&background=000&border=30A3DC&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E" alt="GitHub streak">
 </p>
 
 ### 🐍 Contribution snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viny2106/Viny2106/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Viny2106/Viny2106/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Viny2106/Viny2106/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions">
 </p>
 
 ---
