@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi, I'm Vinicius 👋</h1>
-<p align="center"><i>Olá! · Mechanical professional turned software developer</i></p>
+<p align="center"><i>Olá! · Mechanical technician turned software developer</i></p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a39f3283-b015-4795-9387-2a43dc55d607" width="320" alt="Animated banner">
@@ -17,17 +15,17 @@
 
 ## 🧭 About me
 
-After **16 years in mechanical engineering and project work**, I'm moving into software development.
-I'm currently studying **Systems Analysis and Development (ADS) at FGV**, covering Python, SQL, networking,
-operating systems and software engineering.
+After **16 years as a mechanical technician** (technical and vocational training at SENAI),
+I'm moving into software development. I'm currently studying **Systems Analysis and Development (ADS) at FGV**,
+covering Python, SQL, networking, operating systems and software engineering.
 
-What I bring from engineering: a **systematic way of breaking down complex problems** — the same
-mindset I now use for debugging, designing architectures and planning solutions.
+What I bring from the mechanical field: a **hands-on, systematic way of diagnosing and solving problems** —
+the same mindset I now use for debugging, designing solutions and planning projects.
 
 - 🎓 **Studying:** Python · JavaScript · C · SQL
 - 🔧 **Currently building:** network addressing plan (IPv4, VLANs, DHCP/DNS/FTP/SNMP) in Cisco Packet Tracer for my FGV Networking final project
 - 🤝 **Open to:** collaborating on beginner-friendly projects — feel free to reach out!
-- ⚡ **Fun fact:** I studied Physics at UERJ for six semesters before life took me to the UK. Today I'm back in higher education, now in software.
+- ⚡ **Fun fact:** I studied Physics at UERJ up to the 6th semester before life took me to the UK. Today I'm back in higher education, now in software.
 
 ---
 
@@ -69,15 +67,51 @@ mindset I now use for debugging, designing architectures and planning solutions.
 
 ---
 
+## 💼 Portfolio
+
+<!-- Quando o portfólio estiver no ar, troque o link e o texto "Coming soon" abaixo. -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20soon-30A3DC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🌐 **Network Addressing Plan** | IPv4 addressing, VLANs and DHCP/DNS/FTP/SNMP services simulated in Cisco Packet Tracer (FGV final project) | Cisco Packet Tracer | *coming soon* |
+| ⚙️ **Your next project** | *Short description of what it does and the problem it solves* | Python | [Repo](#) · [Demo](#) |
+| 🗄️ **Your next project** | *Short description of what it does and the problem it solves* | SQL | [Repo](#) · [Demo](#) |
+
+---
+
 ## 📊 GitHub stats
 
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viny2106&show_icons=true&bg_color=000&border_color=30A3DC&theme=react" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viny2106&layout=compact&bg_color=000&border_color=30A3DC&theme=react" alt="Top languages">
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Viny2106&background=000&border=30A3DC&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC" alt="GitHub streak">
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Viny2106&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies">
+</p>
+
+### 📈 Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viny2106&bg_color=000000&color=30A3DC&line=30A3DC&point=ffffff&area=true&area_color=30A3DC&hide_border=true" alt="Contribution activity graph">
+</p>
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viny2106/Viny2106/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Viny2106/Viny2106/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions">
+  </picture>
 </p>
 
 ---
