@@ -19,12 +19,12 @@ After **16 years as a mechanical technician** (technical and vocational training
 I'm moving into software development. I'm currently studying **Systems Analysis and Development (ADS) at FGV**,
 covering Python, SQL, networking, operating systems and software engineering.
 
-What I bring from the mechanical field: a **hands-on, systematic way of diagnosing and solving problems** —
+What I bring from the mechanical field: a **hands-on, systematic way of diagnosing and solving problems** 
 the same mindset I now use for debugging, designing solutions and planning projects.
 
 - 🎓 **Studying:** Python · JavaScript · C · SQL
 - 🔧 **Currently building:** network addressing plan (IPv4, VLANs, DHCP/DNS/FTP/SNMP) in Cisco Packet Tracer for my FGV Networking final project
-- 🤝 **Open to:** collaborating on beginner-friendly projects — feel free to reach out!
+- 🤝 **Open to:** collaborating on beginner-friendly projects  feel free to reach out!
 - ⚡ **Fun fact:** I studied Physics at UERJ up to the 6th semester before life took me to the UK. Today I'm back in higher education, now in software.
 
 ---
