@@ -51,22 +51,6 @@ the same mindset I now use for debugging, designing solutions and planning proje
 
 ---
 
-## 🗂️ Featured projects
-
-<p>
-  <a href="https://github.com/Viny2106/Costa_Bank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Costa_Bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=react" alt="Costa_Bank">
-  </a>
-  <a href="https://github.com/Viny2106/vini_bank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=vini_bank&bg_color=000&border_color=30A3DC&show_icons=true&theme=react" alt="vini_bank">
-  </a>
-  <a href="https://github.com/Viny2106/Super_Heroi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viny2106&repo=Super_Heroi&bg_color=000&border_color=30A3DC&show_icons=true&theme=react" alt="Super_Heroi">
-  </a>
-</p>
-
----
-
 ## 💼 Portfolio
 
 <!-- Quando o portfólio estiver no ar, troque o link e o texto "Coming soon" abaixo. -->
