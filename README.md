@@ -53,18 +53,13 @@ the same mindset I now use for debugging, designing solutions and planning proje
 
 ## 💼 Portfolio
 
-<!-- Quando o portfólio estiver no ar, troque o link e o texto "Coming soon" abaixo. -->
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20soon-30A3DC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-</p>
-
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| 🌐 **Network Addressing Plan** | IPv4 addressing, VLANs and DHCP/DNS/FTP/SNMP services simulated in Cisco Packet Tracer (FGV final project) | Cisco Packet Tracer | *coming soon* |
-| ⚙️ **Your next project** | *Short description of what it does and the problem it solves* | Python | [Repo](#) · [Demo](#) |
-| 🗄️ **Your next project** | *Short description of what it does and the problem it solves* | SQL | [Repo](#) · [Demo](#) |
-
----
+| 🏫 **School Waiting List** | FGV Data Structures final project: a waiting-list system where each staff role uses a different structure — linked list, binary search tree and graph. | Python | [Repo](https://github.com/Viny2106/ED-ProjetoFinal) |
+| 🏦 **OOP Banking System** | Banking system modelled with OOP: customers, accounts, transaction history and an abstract `Transacao` class with `Saque`/`Deposito` subclasses. | Python | [Repo](https://github.com/Viny2106/Sistema_bancario_POO) |
+| 🏋️ **Workout API** *(in progress)* | REST API for athletes and training centres using FastAPI, SQLAlchemy, Alembic and Docker. | Python · FastAPI · Docker | [Repo](https://github.com/Viny2106/workout_API) |
+| 💰 **Vini Bank** | Procedural banking system: deposits, withdrawals with daily limits, statements, user and account registration. | Python | [Repo](https://github.com/Viny2106/vini_bank) |
+| 🌐 **Network Addressing Plan** | IPv4 addressing, VLANs and DHCP/DNS/FTP/SNMP services simulated in Cisco Packet Tracer (FGV final project). | Cisco Packet Tracer | [Repo](https://github.com/Viny2106/NOME-DO-REPO) |
 
 ## 📊 GitHub stats
 
