@@ -24,7 +24,8 @@ the same mindset I now use for debugging, designing solutions and planning proje
 
 - 🎓 **Studying:** Python · JavaScript · C · SQL
 - 🔧 **Currently building:** network addressing plan (IPv4, VLANs, DHCP/DNS/FTP/SNMP) in Cisco Packet Tracer for my FGV Networking final project
-- 🤝 **Open to:** collaborating on beginner-friendly projects  feel free to reach out!
+🤝 **Open to:** junior developer / internship roles in the UK, and collaborating on beginner-friendly projects
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/vinicius-costa-chaves) · viniciuscostauk@gmail.com
 - ⚡ **Fun fact:** I studied Physics at UERJ up to the 6th semester before life took me to the UK. Today I'm back in higher education, now in software.
 
 ---
